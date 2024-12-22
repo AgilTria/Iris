@@ -1,6 +1,6 @@
 <div class="logo-header" data-background-color="white">
     {{-- Logo --}}
-    <a href="https://pustakakoding.com/" class="logo">
+    <a href="" class="logo">
         <img src="{{ asset('images/logo.png') }}" alt="navbar brand" class="navbar-brand me-3" height="35">
         <span class="fw-bold">PERSEDIAAN</span>
     </a>

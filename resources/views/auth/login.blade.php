@@ -78,9 +78,7 @@
                             <button type="submit" class="btn btn-secondary w-100 mt-3 mb-5">LOGIN</button>
 
                             {{-- copyright --}}
-                            <div class="text-center mb-2">
-                                &copy; 2024 - <a href="https://pustakakoding.com/" target="_blank" class="text-brand text-decoration-none fw-semibold">Pustaka Koding</a>.
-                            </div>
+                            
                         </form>
                     </div>
                 </div>

@@ -8,40 +8,13 @@
                     <div class="flex-shrink-0">
                         <i class="ti ti-hash text-hash align-text-top me-2"></i>
                     </div>
-                    <div>
-                        <h6 class="about-title mb-3">Copyright</h6>
-                        <p>© 2024 - <a href="https://pustakakoding.com/" target="_blank" class="text-brand fw-semibold text-decoration-none">Pustaka Koding</a> - Indra Styawantoro. All rights reserved.</p>
-                    </div>
                 </div>
             </div>
-
             <div class="py-3">
                 <div class="d-flex align-items-start">
                     <div class="flex-shrink-0">
                         <i class="ti ti-hash text-hash align-text-top me-2"></i>
                     </div>
-                    <div>
-                        <h6 class="about-title mb-3">Permissions</h4>
-                        <p><i class="ti ti-circle text-brand me-2"></i> Private use</p>
-                        <p><i class="ti ti-circle text-brand me-2"></i> Modification</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="py-3">
-                <div class="d-flex align-items-start">
-                    <div class="flex-shrink-0">
-                        <i class="ti ti-hash text-hash align-text-top me-2"></i>
-                    </div>
-                    <div>
-                        <h6 class="about-title mb-3">Limitations</h6>
-                        <p><i class="ti ti-circle text-brand me-2"></i> Commercial use</p>
-                        <p><i class="ti ti-circle text-brand me-2"></i> Distribution</p>
-                        <p><i class="ti ti-circle text-brand me-2"></i> Liability</p>
-                        <p><i class="ti ti-circle text-brand me-2"></i> Warranty</p>
-                    </div>
-                </div>
-            </div>
 
             <div class="py-3">
                 <div class="d-flex align-items-start">
